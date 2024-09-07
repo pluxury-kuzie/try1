@@ -1,9 +1,5 @@
-# try1
-my first repository
+# Разработка мобильного приложения
+## Развертывание рабочей среды
 
-test
-test
-test
-test
-test
-test
+1. [Клонировать репозиторий](https://github.com/pluxury-kuzie/try1.git)
+2. [Установка VSCode](https://code.visualstudio.com/Download)
